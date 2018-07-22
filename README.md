@@ -31,13 +31,16 @@ Instalando o gulp global, para que fique mais facil usar o npm install em um pro
  $ npm install
   Com isso irá buscar todas as nossas dependências e instalar cada uma.
 
+
 ===== ESTRUTURA DO PROJETO =====
-src/  -> Nosso diretório source.
-  components/ -> Onde ficara nossos componentes
-  fonts/ -> fontes do projetos ( opcional )
-  img/ -> Imagens do projeto.
-  js/ -> Arquivos .js para o projeto.
-  scss/ -> Estilização padrão para o projeto.
-gulp.paths.json -> Configuração do caminho para arquivos e diretórios do projeto.
-gulpfile.js -> Configurações de cada dependência instalada.
-package.json -> Dependências instaladas.
+<p>
+src/  -> Nosso diretório source.<br>
+  &nbsp;&nbsp;components/ -> Onde ficara nossos componentes<br>
+  &nbsp;&nbsp;fonts/ -> fontes do projetos ( opcional )<br>
+  &nbsp;&nbsp;img/ -> Imagens do projeto.<br>
+  &nbsp;&nbsp;js/ -> Arquivos .js para o projeto.<br>
+  &nbsp;&nbsp;scss/ -> Estilização padrão para o projeto.<br>
+gulp.paths.json -> Configuração do caminho para arquivos e diretórios do projeto.<br>
+gulpfile.js -> Configurações de cada dependência instalada.<br>
+package.json -> Dependências instaladas.<br>
+ </p>
