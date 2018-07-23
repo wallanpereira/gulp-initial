@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'robotoslab-bold';
+    src: url('../robotoslab-bold.ttf');
+}
+
+@font-face {
+    font-family: 'robotoslab-regular';
+    src: url('../robotoslab-regular.ttf');
+}
+
+@font-face {
+    font-family: 'robotoslab-light';
+    src: url('../robotoslab-light.ttf');
+}
+
+@font-face {
+    font-family: 'robotoslab-thin';
+    src: url('../robotoslab-thin.ttf');
+}
