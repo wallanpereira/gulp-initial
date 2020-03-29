@@ -3,11 +3,23 @@ Gulp para início de projeto Web
 
 Tutorial para Linux
 
-Instalando o nodejs<br>
+Instalando o Python2.7
+&nbsp;&nbsp;$ sudo apt-get install python2.7
+
+Instalando o nodejs 8.16<br>
 &nbsp;&nbsp;$ sudo apt install nodejs
 
 Instalando o npm<br>
 &nbsp;&nbsp;$ sudo apt install npm
+
+Instalando dependências do projeto
+&nbsp;&nbsp;$ npm i -D
+
+Iniciando o projeto
+&nbsp;&nbsp;$ gulp
+
+
+
 
 Instalando o gulp global, para que fique mais facil usar o npm install em um projeto com gulp.<br>
   Primeiro crie um diretório temporario, que iremos usar para instalar o gulp global.<br>
